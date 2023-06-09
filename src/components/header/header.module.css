@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  background-color: #69c;
+  color: #222;
+}
+
+.brand {
+  font-size: 300%;
+  margin: 2rem auto;
+  font-family: serif;
+}
