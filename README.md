@@ -1,3 +1,4 @@
+with content
 # Pathways Website
 
 This is a React application that serves as the main web presence for the Pathways program.
